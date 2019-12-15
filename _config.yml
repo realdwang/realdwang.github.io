@@ -1,6 +1,6 @@
 # Site settings
 title: DW Blog
-SEOTitle: Dong Wang | BY Blog
+SEOTitle: Dong Wang | DW Blog
 header-img: img/post-bg-desk.jpg
 email: realdwang@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/realdwang/realdongwang.github.io.git" # you cod
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The free soul guides the imprisoned body!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Free_Sun.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
