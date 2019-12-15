@@ -62,11 +62,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
+  githubID: realdwang
   clientID: a7f4f754f459a4516e0f                            #生成的clientID
   clientSecret: 6c8437080d8854e5dfbb912d4e132c778be3bedf    #生成的clientSecret
   repo: realdwang.github.io    #仓库名称
   owner: realdwang    #github用户名
-  admin: realdwang
+  adminUser: realdwang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
