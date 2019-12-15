@@ -93,14 +93,14 @@ layout: default
                 
                 <div id="gitalk-container"></div>
                 <script type="text/javascript">
-                    var gitalk = new Gitalk({
+                    const gitalk = new Gitalk({
                     githubID: '{{site.gitalk.githubID}}',
                     clientID: '{{site.gitalk.clientID}}',
                     clientSecret: '{{site.gitalk.clientSecret}}',
                     repo: '{{site.gitalk.repo}}',
                     owner: '{{site.gitalk.owner}}',
                     admin: ['{{site.gitalk.admin}}'],
-                    id: md5(location.href),
+                    id: md5(location.pathname),
                     distractionFreeMode: {{site.gitalk.distractionFreeMode}}
                     });
                     gitalk.render('gitalk-container');
