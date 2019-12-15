@@ -97,16 +97,13 @@ service-worker: true
 
 
 # Friends
-friends: [
+Links: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Google Scholar",
+        href: "https://scholar.google.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "HIT",
+        href: "https://www.hit.edu.cn"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
