@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Xcode
+title:      Xcode22
 subtitle:   如何切换Xcode命令行工具
 date:       2018-05-05
 author:     BY
