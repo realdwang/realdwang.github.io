@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: realdwang@gmail.com
 description: "Every failure is leading towards success."
 keyword: "DW, DW Blog, Dong Wang, HIT, Bioinformatics, Political Talk"
-url: "http://realdongwang.github.io"          # your host, for absolute URL
+url: "http://realdwang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/realdwang/realdongwang.github.io.git" # you code repository
+github_repo: "https://github.com/realdwang/realdwang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
