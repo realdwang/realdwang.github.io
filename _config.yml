@@ -1,6 +1,6 @@
 # Site settings
 title: DW Blog
-SEOTitle: Dong_Wang | DW Blog
+SEOTitle: Dong Wang | DW Blog
 header-img: img/post-bg-desk.jpg
 email: realdwang@gmail.com
 description: "Every failure is leading towards success."
@@ -67,7 +67,7 @@ gitalk:
   repo: realdwang.github.io    #仓库名称
   owner: realdwang    #github用户名
   admin: realdwang
-  distractionFreeMode: false #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
