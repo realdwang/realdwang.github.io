@@ -67,7 +67,7 @@ gitalk:
   clientSecret: 6c8437080d8854e5dfbb912d4e132c778be3bedf    #生成的clientSecret
   repo: realdwang.github.io    #仓库名称
   owner: realdwang    #github用户名
-  adminUser: realdwang
+  admin: realdwang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
