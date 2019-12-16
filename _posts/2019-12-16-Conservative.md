@@ -1,21 +1,19 @@
 ---
 layout:     post
-title:      Xcode22
-subtitle:   如何切换Xcode命令行工具
-date:       2018-05-05
-author:     BY
+title:      谈谈保守主义
+subtitle:   保守主义的是与非
+date:       2019-12-16
+author:     Dong Wang
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:
-    - Xcode
+    - UK
     - iOS
 ---
 
 ## 安装
 
-	xcode-select --install
-
-![](https://upload-images.jianshu.io/upload_images/545662-f9031dfcce085f8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/459)
+	保守主义
 
 ## Xcode版本切换
 
