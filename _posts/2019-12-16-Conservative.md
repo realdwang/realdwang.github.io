@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      谈谈保守主义
-subtitle:   保守主义的是与非
+title:      test
+subtitle:   test
 date:       2019-12-16
 author:     Dong Wang
 header-img: img/post-bg-kuaidi.jpg
@@ -13,7 +13,7 @@ tags:
 
 ## 安装
 
-	保守主义
+	test
 
 ## Xcode版本切换
 
