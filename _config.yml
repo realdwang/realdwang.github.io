@@ -1,10 +1,10 @@
 # Site settings
-title: DW Blog
-SEOTitle: Dong Wang | DW Blog
-header-img: img/post-bg-desk.jpg
+title: Dong Wang
+SEOTitle: Dong Wang
+header-img: /img/avatar_m.jpg
 email: realdwang@gmail.com
 description: "Every failure is leading towards success."
-keyword: "DW, DW Blog, Dong Wang, HIT, Bioinformatics, Political Talk"
+keyword: "DW,  Dong Wang, HIT, Bioinformatics, Political Talk"
 url: "http://realdwang.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/realdwang/realdwang.github.io.git" # you code repository
@@ -12,16 +12,16 @@ github_repo: "https://github.com/realdwang/realdwang.github.io.git" # you code r
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "The free soul guides the imprisoned body!"
-sidebar-avatar: /img/Free_Sun.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username: realdongwang
+# zhihu_username: realdongwang
 github_username: realdwang
-facebook_username: realdwang
+# facebook_username: realdwang
 # jianshu_username:   e71990ada2fd
-twitter_username: realdwang
+# twitter_username: realdwang
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
